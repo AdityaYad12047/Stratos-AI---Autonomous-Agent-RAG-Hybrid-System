@@ -1,0 +1,25 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+backend/src/__pycache__/
+backend/src/agents/__pycache__/
+backend/src/rag/__pycache__/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

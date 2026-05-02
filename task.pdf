@@ -1,0 +1,25 @@
+# Task: Build Stratos AI - Production-Grade Agent + RAG System
+
+- `[/]` **Phase 1: Project Scaffolding**
+    - `[x]` Create folder structure (monorepo-style)
+    - `[ ]` Initialize Backend (FastAPI + Pydantic)
+    - `[ ]` Initialize Frontend (Next.js + Tailwind)
+- `[ ]` **Phase 2: Backend Core & RAG**
+    - `[ ]` Set up Vector DB Integration (Pinecone/FAISS)
+    - `[ ]` Implement Semantic Chunking & Embedding Logic
+    - `[ ]` Create Document Ingestion API
+- `[ ]` **Phase 3: Multi-Agent Orchestration (LangGraph)**
+    - `[ ]` Define Agent State Schema
+    - `[ ]` Implement Analyst Agent Node
+    - `[ ]` Implement Strategy Agent Node
+    - `[ ]` Implement Execution Agent Node
+    - `[ ]` Set up real-time status streaming (WebSockets)
+- `[ ]` **Phase 4: Premium Frontend Development**
+    - `[ ]` Build Dashboard Layout (Glassmorphism)
+    - `[ ]` Implement Real-time Agent Progress Visualizer
+    - `[ ]` Create Interactive Report View (Charts + Cards)
+    - `[ ]` Integration with Backend APIs
+- `[ ]` **Phase 5: Final Polish & Verification**
+    - `[ ]` Add Framer Motion animations
+    - `[ ]` Implement Mock Auth flow
+    - `[ ]` Final E2E testing with sample business goal
